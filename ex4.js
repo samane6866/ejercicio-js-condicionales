@@ -4,11 +4,12 @@
  */
 
 let numero = -1;
+numero = 0;
 
 if (numero == 0) {
-    console.log("BUP!BUP!");
+  console.log("BUP!BUP!");
 }
 
 if (numero <= -1) {
-    console.log("CROAK!!");
+  console.log("CROAK!!");
 }

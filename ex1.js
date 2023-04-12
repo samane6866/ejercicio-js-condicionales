@@ -3,10 +3,9 @@
 */
 
 if (1 < 2) {
-    console.log("Miau!")
+  console.log("Miau!");
+} else {
+  console.log("Guau!");
 }
 
-else {
-    console.log("Guau!")
-}
-
+// mostrara Miau porque 1 es menos 2 y se cumple primer condicion
